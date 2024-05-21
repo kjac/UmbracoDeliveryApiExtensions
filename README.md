@@ -1,4 +1,4 @@
-# A few interesting extension points in the Umbraco Delivery API
+# Umbraco Delivery API extension points
 
 Here you'll find a demo of some interesting extension points in the Umbraco Delivery API.
 
@@ -6,7 +6,7 @@ Read all about it on [my blog](https://kjac.dev/posts/delivery-api-tip-trick-and
 
 ## Running the demo
 
-The demo consists of a single Umbraco CMS project. You’ll need .NET 8 to run it. Oopen a terminal window in `src/Site` and run:
+The demo consists of a single Umbraco CMS project. You’ll need .NET 8 to run it. Open a terminal window in `src/Site` and run:
 
 ```bash
 dotnet run
